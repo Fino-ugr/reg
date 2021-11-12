@@ -55,6 +55,7 @@ exit;*/
 <?php //echo "Текущее время:" . time();  
 ?>
 <br>
+<br>
 <?php
 // var_dump($_COOKIE);
 //var_dump($_SESSION);
